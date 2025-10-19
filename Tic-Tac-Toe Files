@@ -1,8 +1,0 @@
-echo "# Tic-Tac-Toe-Multiagent-Search" >> README.md
-cd E:\CSUSB\CSE 5120\homework_2_code_files_Expansion
-git init
-git add README.md
-git add GameStatus_5120.py
-git add multiAgent.py
-git add full_game_stub.py
-git commit -m "Initial commit of Tic Tac Toe files"
